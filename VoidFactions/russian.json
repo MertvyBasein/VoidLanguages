@@ -2,13 +2,13 @@
     "profile": "Профиль",
     "level": "Уровень",
     "rank": "Ранг",
-    "deposit": "Внести",
+    "deposit": "Депозит",
     "rewards": "Награды",
 
     "lastPromote": "Последнее повышение",
-    "autoPromote": "Автоматическое повышение",
+    "autoPromote": "Авто повышение",
     "rankTemplate": "Шаблон ранга",
-    "nextAutoPromote": "Следущее авто повышение",
+    "nextAutoPromote": "Следущее повышение",
     "joined": "Присоединился",
     "sessionPlaytime": "Время сессии",
     "totalPlaytime": "Общее время",
@@ -30,9 +30,9 @@
     "createFaction": "Создать фракцию",
     "joinFaction": "Присоедниться к фракции",
     
-    "createFactionOrJoin": "Создайте фракцию или присоединитесь к существующей",
-    "noFactionText": "Вы можете либо создать новую фракцию и стать её боссом, либо присоединиться к уже существующей..",
-    "factionCreateCost": "Стоимость создания новой фракции :color: :money:.",
+    "createFactionOrJoin": "Меню",
+    "noFactionText": "Вы можете создать новую фракцию или присоединиться к уже существующей..",
+    "factionCreateCost": "Стоимость создания фракции :color: :money:.",
 
     "select": "Выбрать",
     "create": "Создать",
@@ -88,7 +88,7 @@
     "inviteRequired": "Требуется приглашение",
     "isDefaultFaction": "Фракция по умолчанию",
 
-    "inviteOnly": "Только по приглашению",
+    "inviteOnly": "по приглашению",
 
     "noRanksAvailable": "Нет доступных рангов!",
     "none": "Ничего",
@@ -96,11 +96,11 @@
     "rankTag": "Тэг ранга",
     "job": "Профессия",
 
-    "ranking": "Ранжирование",
+    "ranking": "Ранги",
     "totalUpgrades": "Всего улучшений",
 
     "showingPagination": "Показать :from:-:to:",
-    "page": "Страница",
+    "page": "СТР",
     "from": "Из",
 
     "createUpgrade": "Создать улучшение",
@@ -213,11 +213,11 @@
     "upgr_descval_lockpickspeed": "Каким должно быть время взлома %? (0-100%)",
 
     "upgr_maxmembers": "Макс участников",
-    "upgr_desc_maxmembers": "Увеличивает максимальное количество участников.",
-    "upgr_descval_maxmembers": "Какое максимальное количество участников должно быть добавлено?",
+    "upgr_desc_maxmembers": "Увеличивает максимальное кл-во участников.",
+    "upgr_descval_maxmembers": "Какое максимальное кл-во участников должно быть добавлено?",
 
     "upgr_maxitems": "Макс участников",
-    "upgr_desc_maxitems": "Увеличивает максимальное количество предметов.",
+    "upgr_desc_maxitems": "Увеличивает максимальное кл-во предметов.",
     "upgr_descval_maxitems": "Сколько макс предметов следует добавить?",
 
     "upgr_capturetime": "Время захвата",
@@ -295,12 +295,12 @@
 
     "unlockedReward": "Награда :reward: открыта!",
 
-    "cantJoinNoDefaultFactions": "Для начала Фракцию необходимо настроить! Сделайте это и снова попробуйте.",
+    "cantJoinNoDefaultFactions": "Для начала Фракцию необходимо настроить!",
     "noDefaultFactions": "Фракций по умолчанию нет! Их нужно будет настроить!",
 
-	"deleteRankPrompt": "Вы уверены, что хотите удалить ранг :rank:? Это действие будет необратимым!",
-	"deleteFactionPrompt": "Вы уверены, что хотите удалить фракцию :faction:? Это действие будет необратимым!",
-	"disbandFactionPrompt": "Вы уверены, что хотите распустить свою фракцию? Это действие будет необратимым!",
+	"deleteRankPrompt": "Вы уверены, что хотите удалить ранг :rank:?",
+	"deleteFactionPrompt": "Вы уверены, что хотите удалить фракцию :faction:?",
+	"disbandFactionPrompt": "Вы уверены, что хотите распустить свою фракцию?",
 	"disbandFaction":"Расформировать фракцию",
 	"switch": "Сменить",
 	"switchType": "Сменить тип фракции",
@@ -312,7 +312,7 @@
 	"factionInvite": "Приглашение фракции",
 	"invitedTo": "Вас пригласили",
 	"memberCount": ":x:/:total: участников",
-	"factionCount": ":x: фракций",
+	"factionCount": ":x: фракция",
 	"unlock": "Разблокировать",
 	"neededToUnlock": "Необходимо для разблокировки",
 	"details": "Подробности",
@@ -352,7 +352,7 @@
 	"staticFactionsContent": "Администрация может создавать фракции и решать, кто будет лидером и какие права есть у каждого ранга.",
 	"dynamicFactionsContent": "Игроки могут создать свою фракцию и иметь полный контроль над ней. Никто не скажет им, как ею руководить.",
 
-	"xp_npckilled": "Персонаж умер",
+	"xp_npckilled": "НПС умер",
 	"xp_npckilled_desc": "Сколько опыта вы получаете за убийство NPC",
 
 	"xp_territorycapped": "Точка захвачена",
@@ -387,11 +387,11 @@
 	"settings_defaultrankname": "Имя владельца по умолчанию",
 	"settings_defaultrankname_desc": "Как будет называться ранг владельца по умолчанию?",
 
-	"settings_defaultmaxmembers": "Максимальное количество участников по умолчанию",
-	"settings_defaultmaxmembers_desc": "Какое максимальное количество участников стартовой фракции?",
+	"settings_defaultmaxmembers": "Максимальное кл-во участников по умолчанию",
+	"settings_defaultmaxmembers_desc": "Какое максимальное кл-во участников стартовой фракции?",
 
-	"settings_defaultmaxitems": "Максимальное количество товаров по умолчанию",
-	"settings_defaultmaxitems_desc": "Какое максимальное количество предметов у стартовой фракции?",
+	"settings_defaultmaxitems": "Максимальное кл-во товаров по умолчанию",
+	"settings_defaultmaxitems_desc": "Какое максимальное кл-во предметов у стартовой фракции?",
 
 	"settings_factioncreatecost": "Стоимость создания фракции",
 	"settings_factioncreatecost_desc": "Сколько будет стоить создание фракции?",
